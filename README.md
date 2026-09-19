@@ -2,7 +2,7 @@
 
 **Where are the strongest aging fleet opportunities in the U.S. wind market?**
 
-U.S. wind turbine fleet analysis | Data Analytics Project, General Assembly (DAB 26)
+U.S. wind turbine fleet analysis | Group Data Analytics Project, General Assembly (DAB 26)
 
 ## Overview
 
